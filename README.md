@@ -3,9 +3,9 @@
 I'm a brazilian professional with +6 years of experience solving complex analytical problems and this is my github. Welcome!! 
 
 ### Education
-- 📊 Physics B.A. (Bryn Mawr College)
-- 🖥️ Physics Ph.D. (Yale University)
-- 📚 Data Science & Analytics Specialization (PUC - Rio)
+- 📊 Physics B.A. at Bryn Mawr College, 2014
+- 🖥️ Physics Ph.D. at Yale University, 2020
+- 📚 Data Science & Analytics Specialization at PUC - Rio, 2024
 
 ### Professional Experience
 - :book: 📚 Graduate Researcher / Data Scientist at Yale University
@@ -14,7 +14,9 @@ I'm a brazilian professional with +6 years of experience solving complex analyti
 [![Estellasouza's GitHub stats](https://github-readme-stats.vercel.app/api?username=estellasouza)](https://github.com/estellasouza/github-readme-stats)
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=estellasouza)](https://github.com/estellasouza/github-readme-stats)
 
-Skills: Machine Learning, data processing and visualization, Python, R, Tableau, Alteryx, C++, SQL, Jupyter Notebooks, Excel, Statistics
+### Skills
+Tecnical: C++, Python, R, SQL, Alteryx, Tableau, Jupyter notebooks, data modeling, statistical analysis, machine learning, data visualization
+Other: quantitative & qualitative analysis, problem solving, stakeholde management, storytelling, leadership, project management, communication
  
 ### Want to talk with me?
 
